@@ -1,8 +1,8 @@
-package practice;
+package com.company;
 
-public class changegit {
-
+public class Oops_Constructor {
     public static void main(String[] args) {
         System.out.println("hi");
     }
+
 }
